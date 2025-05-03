@@ -1,11 +1,12 @@
-import ToDoList from "./To-Do-List/ToDoList"
 
+import ToDoList from './To-Do-App/ToDoList'
 
 function App() {
+  
 
   return (
     <>
-    <ToDoList></ToDoList>
+    <ToDoList />
      </>
   )
 }
